@@ -1,5 +1,7 @@
 # hdt-wine-overlay-hide
 
+> This plugin is retired and the repository is archived. HDT [drops plugin support on November 30th 2026](https://help.hearthsim.net/en/articles/18470784-what-s-changing-about-plugins-in-hdt) and stops loading it from that day. Use [hdt-wine-overlay-helper](https://github.com/emaspa/hdt-wine-overlay-helper) instead. It is a standalone program that does the same job without HDT's plugin system.
+
 A [Hearthstone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) plugin for running HDT under Wine or Proton on Linux. When Hearthstone loses focus, the plugin hides HDT's overlay, so the overlay no longer stays drawn on top of every other window.
 
 ## The problem
